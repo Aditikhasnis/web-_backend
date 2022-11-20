@@ -1,0 +1,9 @@
+POST http://localhost:4000/app/signup
+Content-Type: application/json
+
+{
+    "fullName":"skkk",
+    "email":"khasnisaditi@gmail.com",
+    "address":"stupid you are ",
+    "Phone":9036056185
+}
